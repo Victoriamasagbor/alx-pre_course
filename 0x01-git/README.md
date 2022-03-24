@@ -1,5 +1,4 @@
 My first readme
-My first readme
 **Create an account on GitHub**- You will need a GitHub account for all your projects at ALX. You can create an account for free here
 **Create a Personal Access Token on Github**- To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 **Update your profile on the Intranet**- Update your Intranet profile by adding your Github username
